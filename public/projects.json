@@ -1,0 +1,57 @@
+[
+    {
+      "image": "https://i.ibb.co/D7X4XGn/ass12.png",
+      "project_name": "WorldSpeak",
+      "feature": "This is a full-stack project. It is an e-learning-based website. Here students can choose a class and see the teachers list and teachers can upload courses they want to teach.",
+      "live_site": "https://summer-camp-3f051.web.app/",
+      "github_client": "https://github.com/itsjahid01/summer-camp-client",
+      "github_server": "",
+      "technology":"React.js, React-Router, Tailwind, JWT, NodeJS, Express JS, MongoDB, Firebase."
+    },
+    {
+      "image": "https://i.ibb.co/NNWv86v/ass11.png",
+      "project_name": "ToyLand",
+      "feature": "This is a full-stack project. It is an e-commerce website. Here users can add toys for sale and see the toy list and details.This website has user authentication, a private route, and curd operations.",
+      "live_site": "https://toy-marketplace-61f23.web.app/",
+      "github_client": "https://github.com/itsjahid01/toy-marketplace-client",
+      "github_server": "",
+      "technology":"React.js, React-Router, Tailwind, Firebase, NodeJS, Express JS, MongoDB"
+    },
+    {
+      "image": "https://i.ibb.co/FHNqZtq/ass10.png",
+      "project_name": "Tasty Yummies",
+      "feature": "This is a full-stack project. It is about chefs and recipes. Here users can see and know about some extraordinary chefs and recipes.",
+      "live_site": "https://chef-recipes-1b5f9.web.app/",
+      "github_client": "https://github.com/itsjahid01/chef-recipe-client",
+      "github_server": "",
+      "technology":"React.js, React-Router, Tailwind, NodeJS, Express JS, Firebase"
+    },
+    {
+      "image": "https://i.ibb.co/D7X4XGn/ass12.png",
+      "project_name": "WorldSpeak",
+      "feature": "Online shopping platform with user authentication, product listings, cart functionality, and payment gateway integration.",
+      "live_site": "https://summer-camp-3f051.web.app/",
+      "github_client": "https://github.com/itsjahid01/summer-camp-client",
+      "github_server": "",
+      "technology":"React.js, React-Router, Tailwind, JWT, NodeJS, Express JS, MongoDB, Firebase."
+    },
+    {
+      "image": "https://i.ibb.co/NNWv86v/ass11.png",
+      "project_name": "ToyLand",
+      "feature": "Task tracking application with user authentication, task creation, status updates, and notifications.",
+      "live_site": "https://toy-marketplace-61f23.web.app/",
+      "github_client": "https://github.com/itsjahid01/toy-marketplace-client",
+      "github_server": "",
+      "technology":"React.js, React-Router, Tailwind, JWT, NodeJS, Express JS, MongoDB, Firebase."
+    },
+    {
+      "image": "https://i.ibb.co/FHNqZtq/ass10.png",
+      "project_name": "Tasty Yummies",
+      "feature": "Social networking site with user profiles, posts, comments, likes, and friend connections.",
+      "live_site": "https://chef-recipes-1b5f9.web.app/",
+      "github_client": "https://github.com/itsjahid01/chef-recipe-client",
+      "github_server": "",
+      "technology":"React.js, React-Router, Tailwind, JWT, NodeJS, Express JS, MongoDB, Firebase."
+    }
+  ]
+  
