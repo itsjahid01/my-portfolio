@@ -13,10 +13,13 @@ const ProjectCard = ({ project }) => {
       <div className="card-body text-white">
         <h2 className="text-center text-xl font-semibold">{project_name}</h2>
         <p>{feature}</p>
-        <p>
-          <span className="text-lg font-semibold">Technology: </span>{" "}
-          {technology}
-        </p>
+        <div className="flex flex-wrap gap-2">
+          {technology.map((item, index) => (
+            <span className="badge badge-info" key={index}>
+              {item}
+            </span>
+          ))}
+        </div>
         <div className="flex justify-between text-2xl mt-3">
           <Link to={live_site}>
             <TbWorldWww className="transform hover:-translate-y-1 hover:text-blue-600" />

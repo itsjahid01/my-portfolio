@@ -19,7 +19,8 @@ const Banner = () => {
       <div className="container mx-auto md:flex justify-between items-center px-16">
         <div>
           <p className="text-3xl lg:text-5xl font-bold text-yellow-600 pt-5">
-            Hi <br /> This is Md Noman Hossen
+            Hi
+            <br /> This is Md Noman Hossen
           </p>
           <p className="text-3xl  text-red-600 my-5">
             I Am A <span className="font-semibold">{text}</span>
@@ -49,7 +50,7 @@ const Banner = () => {
             </Link>
           </div>
         </div>
-        <div>
+        <div className="z-10">
           <img src={img} alt="" />
         </div>
       </div>

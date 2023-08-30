@@ -37,7 +37,7 @@ const Skill = () => {
     },
     {
       type: "Bootstrap",
-      level: 90,
+      level: 80,
       color: {
         bar: "#525252",
         title: { text: "#fff", background: "#333333" },
@@ -45,7 +45,7 @@ const Skill = () => {
     },
     {
       type: "Tailwind",
-      level: 90,
+      level: 80,
       color: {
         bar: "black",
         title: { text: "#111", background: "#fff" },

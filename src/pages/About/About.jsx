@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="bg-[#20303F] ">
       <div className="container mx-auto text-white md:flex gap-5 items-center px-10">
-        <div className="md:w-[40%]">
+        <div className="md:w-[40%] z-10">
           <img src={img} alt="" className="" />
         </div>
         <div className="md:w-[60%]">
@@ -26,7 +26,7 @@ const About = () => {
               <p className="text-lg">mdnomanhossen09@gmail.com</p>
               <span className="text-2xl font-semibold">LinkedIn:</span>
               <p className="text-lg">
-                https://www.linkedin.com/in/mohammad-noman-hossen-a3385015a/
+                https://www.linkedin.com/in/md-noman-hossen/
               </p>
             </div>
           </div>
